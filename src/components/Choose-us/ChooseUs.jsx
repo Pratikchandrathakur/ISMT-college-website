@@ -16,13 +16,8 @@ const ChooseUs = () => {
             <div className="choose__content">
               <h2>Why Choose Us</h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+              The changing world of the 21st century has a dire need for industry-relevant education. The education that prepares students to take initiation and demonstrate responsibilities in identifying, analyzing, and solving problems and can work in teams and make decisions in complex and unpredictable contexts and, most importantly, prepare them to be lifelong learners.
+Today the employers can choose employees from across the world, it is clear that the future competitiveness of students depends on the quality of education they receive. 
               </p>
             </div>
           </Col>
