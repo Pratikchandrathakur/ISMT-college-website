@@ -52,7 +52,7 @@ const Footer = () => {
         <Row>
           <Col lg="3" md="6" className="mb-4">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> Learners.
+              <i class="ri-pantone-line"></i> ISMT.
             </h2>
 
             <div className="follows">
@@ -114,9 +114,9 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h6 className="fw-bold">Get in Touch</h6>
 
-            <p>Address: Sylhet, Bangladesh</p>
-            <p> Phone: +88 0123456789 </p>
-            <p>Email: example@gmail.com</p>
+            <p>Address: Tinkune, Kathmandu,Nepal</p>
+            <p> Phone:+977-1-4112122 </p>
+            <p>Email: info@ismtcollege.com.np</p>
           </Col>
         </Row>
       </Container>

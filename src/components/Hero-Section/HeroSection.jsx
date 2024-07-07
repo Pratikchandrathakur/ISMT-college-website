@@ -11,12 +11,10 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
+                British Degree <br /> Most affordable pricing <br /> Suitable Schedule
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              To create a sustainable education base through the pursuit of learning and developing professionalism that will create a competitive edge to perform at a Global Level. <br /> A globally respected academic institute that endorses noble professional practices in Nepal and in South Asia by creating new frontiers and developing “ethical”, dependable, entrepreneurial and socially sensitive leader-managers, educators and IT professionals committed to producing excellent results.
               </p>
             </div>
             <div className="search">

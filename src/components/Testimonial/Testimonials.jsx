@@ -35,9 +35,7 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        Excellent student supporting environment till the job placement.
                       </p>
 
                       <div className="student__info mt-4">
@@ -53,9 +51,7 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        I just love the courses they are very hands-on and very helpful and applicable in my current job.
                       </p>
 
                       <div className="student__info mt-4">
@@ -71,9 +67,7 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        Choosing this college is my best decision towards a great career.
                       </p>
 
                       <div className="student__info mt-4">

@@ -5,19 +5,19 @@ import "./features.css";
 const FeatureData = [
   {
     title: "Quick Learning",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "Our courses are very beginer's friendly no matters what is your level we can contribute to level up your current skills to the next level. ",
     icon: "ri-draft-line",
   },
 
   {
     title: "All Time Support",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "Our student support is live 22/7 to record student issues and resolve them as soon as possible.",
     icon: "ri-discuss-line",
   },
 
   {
     title: "Certification",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "Our courses consists of industry certifications along the way so help yourself by enrolling in one of our courses.",
     icon: "ri-contacts-book-line",
   },
 ];

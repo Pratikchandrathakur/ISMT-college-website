@@ -20,9 +20,7 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+              ISMT was established in 2011 with a mission to deliver internationally recognized qualifications. ISMT offers a range of qualifications in collaboration with the University of Sunderland and Pearson BTEC. ISMT exists to make an impact in the education system in Nepal, with an ambition to deliver industry-relevant education and make higher education accessible and beneficial to all those with the passion and ability to succeed.
               </p>
 
               <div className="about__counter">
